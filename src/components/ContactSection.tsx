@@ -91,10 +91,10 @@ const ContactSection = () => {
                   <div>
                     <p className="text-sm text-muted-foreground font-body">Email</p>
                     <a
-                      href="mailto:hello@example.com"
+                      href="mailto:naufalwavi@ymail.com"
                       className="text-foreground hover:text-primary transition-colors"
                     >
-                      hello@example.com
+                      naufalwavi@ymail.com
                     </a>
                   </div>
                 </div>
