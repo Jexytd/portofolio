@@ -4,27 +4,27 @@ import ScrollReveal from "./ScrollReveal";
 
 const projects = [
   {
-    title: "Lumina Dashboard",
-    category: "Web App",
-    description: "A comprehensive analytics dashboard for SaaS businesses with real-time data visualization.",
+    title: "ASKA",
+    category: "Mobile App",
+    description: "Kemudahan akses, satu aplikasi untuk semua kebutuhan layanan kesehatan",
     color: "#F59E0B",
   },
   {
-    title: "Bloom E-commerce",
+    title: "Gouango",
     category: "E-commerce",
-    description: "Modern online store with seamless checkout experience and inventory management.",
+    description: "Toko online modern dengan pengalaman pembayaran yang lancar dan manajemen inventaris.",
     color: "#10B981",
   },
   {
-    title: "Pulse Health",
-    category: "Mobile App",
-    description: "Health tracking application with personalized insights and wellness recommendations.",
+    title: "GOH",
+    category: "Lua",
+    description: "Pusat roblox script yang susah dideteksi",
     color: "#6366F1",
   },
   {
-    title: "Nova Brand Identity",
-    category: "Branding",
-    description: "Complete brand redesign for a tech startup including logo, guidelines, and collateral.",
+    title: "---",
+    category: "---",
+    description: "---",
     color: "#EC4899",
   },
 ];

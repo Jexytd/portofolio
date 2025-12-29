@@ -29,7 +29,7 @@ const Navbar = () => {
           onClick={() => scrollToSection("hero")}
           className="font-heading text-xl font-semibold text-foreground hover:text-primary transition-colors"
         >
-          JD
+          G
         </button>
         <div className="hidden md:flex items-center gap-10">
           {["About", "Work", "Contact"].map((item) => (
@@ -44,10 +44,10 @@ const Navbar = () => {
           ))}
         </div>
         <a
-          href="mailto:hello@example.com"
+          href="mailto:naufalwavi@ymail.com"
           className="hidden md:block px-5 py-2.5 text-sm font-medium border border-primary/30 text-primary rounded-full hover:bg-primary hover:text-primary-foreground transition-all duration-300"
         >
-          Get in touch
+          Get In Touch
         </a>
       </div>
     </nav>

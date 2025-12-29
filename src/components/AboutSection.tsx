@@ -58,7 +58,7 @@ const AboutSection = () => {
                     <div className="text-center">
                       <div className="w-32 h-32 mx-auto mb-6 rounded-full bg-primary/20 flex items-center justify-center">
                         <span className="font-heading text-4xl text-primary">
-                          JD
+                          G
                         </span>
                       </div>
                       <p className="text-muted-foreground font-body text-sm">

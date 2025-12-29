@@ -101,7 +101,7 @@ const HeroSection = () => {
           transition={{ duration: 0.6, delay: 0.2 }}
           className="font-heading text-5xl md:text-7xl lg:text-8xl font-medium text-foreground mb-8"
         >
-          Jane Doe
+          Gouangs
         </motion.h1>
         <motion.p
           initial={{ opacity: 0, y: 30 }}

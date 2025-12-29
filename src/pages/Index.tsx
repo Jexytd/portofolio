@@ -10,7 +10,7 @@ const Index = () => {
   return (
     <>
       <Helmet>
-        <title>Jane Doe | Creative Developer & Designer</title>
+        <title>Gouangs | Creative Developer & Designer</title>
         <meta
           name="description"
           content="Creative developer and designer crafting digital experiences that blend aesthetics with functionality. Based in San Francisco, working worldwide."

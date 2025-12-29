@@ -15,16 +15,16 @@ const Footer = () => {
       <div className="container mx-auto">
         <div className="flex flex-col md:flex-row items-center justify-between gap-6">
           <div className="flex items-center gap-8">
-            <span className="font-heading text-lg text-foreground">JD</span>
+            <span className="font-heading text-lg text-foreground">G</span>
             <p className="text-sm text-muted-foreground font-body">
-              © {currentYear} Jane Doe. All rights reserved.
+              © {currentYear} Gouangs. All rights reserved.
             </p>
           </div>
           <div className="flex items-center gap-4">
             {[
               { href: "https://twitter.com", icon: Twitter, label: "Twitter" },
               { href: "https://linkedin.com", icon: Linkedin, label: "LinkedIn" },
-              { href: "https://github.com", icon: Github, label: "GitHub" },
+              { href: "https://github.com/Jexytd", icon: Github, label: "GitHub" },
             ].map((social, index) => (
               <motion.a
                 key={social.label}
